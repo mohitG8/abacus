@@ -4,8 +4,8 @@ const SliderComponent = () => {
   const sliderData = [
     { id: 1, name: "Claude Sonnet 3.5", icon: "/icon1.jpg" },
     { id: 2, name: "Llama-3.1 405B", icon: "/icon2.jpg" },
-    { id: 3, name: "Abacus.AI Smaug", icon: "/icon4.jpg" },
-    { id: 4, name: "Gemini 1.5 Pro", icon: "/icon3.jpg" },
+    { id: 3, name: "Abacus.AI Smaug", icon: "/icon3.jpg" },
+    { id: 4, name: "Gemini 1.5 Pro", icon: "/icon4.jpg" },
     { id: 5, name: "o1", icon: "/icon5.jpg" },
     { id: 6, name: "o1 Mini", icon: "/icon6.jpg" },
   ];
